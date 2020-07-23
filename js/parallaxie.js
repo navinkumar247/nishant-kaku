@@ -15,7 +15,7 @@
             speed: 0.2,
             repeat: 'no-repeat',
             size: 'cover',
-            pos_x: 'center',
+            pos_x: 'right',
             offset: 0,
         }, options );
 
